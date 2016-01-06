@@ -1,5 +1,5 @@
 # CST8283 Project #2A - Student Report
-This was my first major assignment in my "Business Programming (COBOL)" course at Algonquin College. Written in COBOL, the program loads a file (STUFILE) containing five student names, their student numbers, their program numbers, and their four course numbers and respective marks and generates a mock report card for each student containing their name, program number, and grade average as a number and actual letter. The student's grade was determined with the following numbers:
+This was my first major assignment in my "Business Programming (COBOL)" course at Algonquin College. Written in COBOL using Microsoft Visual Studio 2012 and Visual COBOL, the program loads a file (STUFILE) containing five student names, their student numbers, their program numbers, and their four course numbers and respective marks and generates a mock report card for each student containing their name, program number, and grade average as a number and actual letter. The student's grade was determined with the following numbers:
 
 <table>
 <tr>
